@@ -25,6 +25,10 @@ h3 {
 	margin-left: 108px;
 	margin-bottom: 8px;
 }
+hr {
+	border: 1px solid #e8e9ec;
+	margin-bottom: 24px;
+}
 span {
 	font-weight: 400;
 	color: var(--dark-grayish-blue);
@@ -93,4 +97,21 @@ span {
 	font-size: 14px;
 	color: var(--dark-grayish-blue);
 	margin-left: 150px;
+	margin-bottom: 24px;
+}
+.bottom-line {
+	display: flex;
+	text-align: center;
+}
+.bottom-line-item {
+	margin-left: 55px;
+}
+.bottom-line-item p:first-child {
+	font-weight: 700;
+	color: var(--very-dark-desaturated-blue);
+}
+.bottom-line-item p:last-child {
+	font-weight: 400;
+	color: var(--dark-grayish-blue);
+	font-size: 10px;
 }
