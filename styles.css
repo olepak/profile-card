@@ -17,7 +17,7 @@ div,
 svg {
 	outline: 0px solid black;
 }
-h3 {
+h1 {
 	font-size: 1rem;
 	color: var(--very-dark-desaturated-blue);
 	font-weight: 700;
@@ -50,7 +50,7 @@ span {
 	position: relative;
 	width: 350px;
 	height: 373px;
-	margin: 174px auto;
+	margin: 172px auto;
 	background-color: #fff;
 	border-radius: 15px;
 	box-shadow: 0px 50px 100px -20px rgba(8, 70, 94, 0.504835);
