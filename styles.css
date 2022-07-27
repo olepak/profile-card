@@ -125,7 +125,7 @@ span {
 	font-size: 10px;
 	letter-spacing: 1.5px;
 }
-
+/* Mobile */
 @media screen and (max-width: 1000px) {
 	h3 {
 		margin-left: 96px;
