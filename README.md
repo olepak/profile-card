@@ -33,4 +33,4 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 
 - Oleksandr Lepak [oleksandr.lepak@gmail.com](mailto:oleksandr.lepak@gmail.com)
 - Frontend Mentor - [@olepak](https://www.frontendmentor.io/profile/olepak)
-- Twitter - [@LepakOleksandr](https://twitter.com/LepakOleksandr)
+- Twitter - [@OleksandrLepak](https://twitter.com/OleksandrLepak)

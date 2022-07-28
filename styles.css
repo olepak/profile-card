@@ -12,6 +12,7 @@
 }
 body {
 	font-family: "Kumbh Sans", sans-serif;
+	background-color: var(--dark-cyan);
 }
 div,
 svg {
@@ -40,10 +41,9 @@ span {
 	min-width: 375px;
 	height: 720px;
 	margin: auto;
-	background-color: var(--dark-cyan);
 	position: relative;
 	padding-top: 1px;
-	overflow: hidden;
+	/* overflow: hidden; */
 	z-index: -2;
 }
 .card {
@@ -126,7 +126,7 @@ span {
 	letter-spacing: 1.5px;
 }
 /* Mobile */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 500px) {
 	h3 {
 		margin-left: 96px;
 	}
