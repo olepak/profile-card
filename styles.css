@@ -60,29 +60,12 @@ span {
 }
 /* CIRCLES */
 .top-circle {
-	width: 978px;
-	height: 976px;
-	border-radius: 50%;
-	z-index: -1;
-	position: absolute;
 	top: -683px;
 	left: -829px;
-	background: linear-gradient(180deg, rgba(9, 137, 180, 0.0001) 0.78%, #53ffee 99.94%);
-	mix-blend-mode: normal;
-	opacity: 0.3;
-	transform: rotate(-150deg);
 }
 .bottom-circle {
-	width: 978px;
-	height: 976px;
-	border-radius: 50%;
-	background: linear-gradient(180deg, rgba(9, 137, 180, 0.0001) 0.78%, #53ffee 99.94%);
-	mix-blend-mode: normal;
-	opacity: 0.25;
-	transform: matrix(0.71, -0.71, -0.71, -0.71, 0, 0);
-	position: absolute;
 	top: 205px;
-	z-index: -1;
+
 	left: 148px;
 }
 .avatar {
