@@ -39,11 +39,11 @@ span {
 .container {
 	max-width: 1440px;
 	min-width: 375px;
-	height: 720px;
+	height: 1500px;
 	margin: auto;
 	position: relative;
 	padding-top: 1px;
-	/* overflow: hidden; */
+	overflow: hidden;
 	z-index: -2;
 }
 .card {
@@ -69,7 +69,7 @@ span {
 	left: -829px;
 	background: linear-gradient(180deg, rgba(9, 137, 180, 0.0001) 0.78%, #53ffee 99.94%);
 	mix-blend-mode: normal;
-	opacity: 0.3;
+	opacity: 0.2;
 	transform: rotate(-150deg);
 }
 .bottom-circle {
@@ -78,7 +78,7 @@ span {
 	border-radius: 50%;
 	background: linear-gradient(180deg, rgba(9, 137, 180, 0.0001) 0.78%, #53ffee 99.94%);
 	mix-blend-mode: normal;
-	opacity: 0.25;
+	opacity: 0.2;
 	transform: matrix(0.71, -0.71, -0.71, -0.71, 0, 0);
 	position: absolute;
 	top: 205px;
@@ -131,7 +131,7 @@ span {
 		margin-left: 96px;
 	}
 	.container {
-		height: 666px;
+		height: 1000px;
 		width: 376px;
 		margin: auto;
 	}
